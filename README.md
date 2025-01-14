@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikolasHunter515
 - 👀 I’m interested in ... film, architecutre, and nature.
-- 🌱 I’m currently learning ... Springboot, xml, react, and bash.
+- 🌱 I’m currently learning ... Springboot, machine learning, react, and cloud computing.
 - 💞️ I’m looking to collaborate on ... backend projects web and desktop, using Java, JavaScript, and C/C++.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
